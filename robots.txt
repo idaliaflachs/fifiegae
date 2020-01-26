@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aitaedahng.evilantnie.com/sitemap.xml
